@@ -1,6 +1,6 @@
 # pixelsound
 
-Cnvert an image to sound and visualize the produced sound with a spectrogram, where the original image is seen.
+Convert a grayscale image to sound and visualize the produced sound with a spectrogram, where the original image is seen.
 
 **Encoding**:
 The conversion is done by encoding each pixel in the image to a sine wave, where frequency corresponds to the row of the pixel and amplitude corresponds to the intensity of the pixel.
